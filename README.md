@@ -24,7 +24,6 @@ cd WIB-React-Demo
 yarn
 
 npm start
-
 ```
 
 ### Whats going on?
